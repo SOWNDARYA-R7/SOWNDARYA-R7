@@ -76,8 +76,8 @@ and RESTful APIs.
 
 ## 🧠 Problem Solving
 
-- 💡 100+ problems solved on LeetCode
-- 🏆 650+ problems solved on CodeChef
+- 💡 200+ problems solved on LeetCode
+- 🏆 700+ problems solved on CodeChef
 - 📈 Practicing DSA, OOP and problem solving regularly
 
 ---
@@ -110,7 +110,7 @@ I'm looking for opportunities where I can:
 <a href="https://github.com/SOWNDARYA-R7">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/](https://www.linkedin.com/in/sowndaryar/">
+<a href="https://www.linkedin.com/in/sowndaryar/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
