@@ -120,21 +120,21 @@ Hybrid mLSTM + sLSTM architecture for classifying SMS as Ham/Spam, with NLP prep
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![NLP](https://img.shields.io/badge/-NLP-blue?style=flat-square) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-**[Repo →](https://github.com/SOWNDARYA-R7)**
+**[Repo →](https://github.com/SOWNDARYA-R7/SMS_Spam_detection_in_xLSTM)**
 
 ### 🏢 Zoho-Style CRM Application
 Full-stack CRM modeling the lead-to-deal-to-contact workflow, with complete CRUD operations, duplicate validation on Customer ID/Email, JWT-based admin authentication, and a reusable object-based validation system with real-time error feedback.
 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-404D59?style=flat-square) ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-**[Repo →](https://github.com/SOWNDARYA-R7)**
+**[Repo →](https://github.com/SOWNDARYA-R7/CRM-Project)**
 
 ### 🎨 Digital Art Gallery Web Application
 Responsive full-stack app with user authentication and CRUD operations for artwork management, connecting a React frontend to a Node.js/MongoDB backend via RESTful APIs.
 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
-**[Repo →](https://github.com/SOWNDARYA-R7)**
+**[Repo →](https://github.com/SOWNDARYA-R7/Digital_Art_Gallery_App)**
 
 ---
 
