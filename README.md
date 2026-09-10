@@ -170,37 +170,6 @@ Responsive full-stack app with user authentication and CRUD operations for artwo
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SOWNDARYA-R7&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOWNDARYA-R7&layout=compact&theme=tokyonight&hide_border=false" alt="Top Langs"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SOWNDARYA-R7&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-</p>
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/SOWNDARYA-R7/SOWNDARYA-R7/output/github-snake-dark.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/SOWNDARYA-R7/SOWNDARYA-R7/output/github-snake.svg"
-      alt="Snake animation"
-    />
-  </picture>
-</p>
-
-### 🏅 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SOWNDARYA-R7&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
 ## 🏆 Coding Achievements
 
 <p align="center">
