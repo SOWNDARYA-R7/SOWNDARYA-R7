@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sowndarya+R+%F0%9F%91%8B;Full+Stack+Developer+(MERN);AI%2FML+Enthusiast;Building+real-world+solutions+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sowndarya+R+%F0%9F%91%8B;Full+Stack+Developer+(MERN);Data+Analyst+Enthusiast;Building+real-world+solutions+%F0%9F%9A%80" alt="Typing SVG" />
 
 <p>
   <a href="https://linkedin.com/in/sowndaryar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -12,9 +12,9 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=SOWNDARYA-R7&style=for-the-badge&color=2E9EF7" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Problems%20Solved-900%2B-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problems%20Solved-1073-success?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CGPA-8.5%2F10-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Year-2nd%20Year-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Year-3rd%20Year-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Open%20To-Internships-brightgreen?style=for-the-badge"/>
 </p>
 
@@ -29,10 +29,10 @@ const sowndarya: Developer = {
   name:          "Sowndarya R",
   role:          "Full Stack Developer (MERN)",
   education:     "B.E. CSE @ KIT — Kalaignarkarunanidhi Institute of Technology",
-  year:          "2nd Year | CGPA: 8.5 / 10",
+  year:          "3rd Year | CGPA: 8.5 / 10",
   experience:    ["Backend Developer Intern @ Clar Technologies",
                   "Data Analytics Intern @ Appin Technology"],
-  solved:        "900+ Coding Problems (LeetCode + CodeChef)",
+  solved:        "1073 Coding Problems (LeetCode, CodeChef, CodeForces & more)",
   stack:         ["MongoDB", "Express", "React", "Node.js"],
   currentFocus:  ["DSA", "System Design", "AI/ML"],
   languages:     ["Tamil", "English"],
@@ -40,11 +40,11 @@ const sowndarya: Developer = {
 };
 ```
 
-- 🎓 2nd Year CSE student at **KIT, Coimbatore** — CGPA: **8.5 / 10**
+- 🎓 3rd Year CSE student at **KIT, Coimbatore** — CGPA: **8.5 / 10**
 - 💼 Backend Developer Intern (MERN) @ **Clar Technologies** — built REST APIs & MongoDB schemas
 - 📊 Data Analytics Intern @ **Appin Technology** — Power BI dashboards & DAX
 - 🧠 Built an **xLSTM-based SMS Spam Detector** — 95.94% test accuracy
-- 🧩 900+ problems solved across LeetCode & CodeChef
+- 🧩 **1073 problems solved** · 299 active days · 86 contests attended (via Codolio)
 - 🔥 100+ day coding streaks — Diamond & Golden Badge holder
 - 🗣️ Languages: Tamil · English
 - 📫 Reach me at **kit28.24cs165@gmail.com** | 📞 7550332156
@@ -57,7 +57,7 @@ const sowndarya: Developer = {
 |---|---|---|---|
 | B.E. Computer Science & Engineering | KIT — Kalaignarkarunanidhi Institute of Technology, Coimbatore | 2024 – 2028 | 8.5 / 10 |
 
-**Coursework:** Software Development · Operating Systems · DBMS · OOPS · Cloud Computing
+**Coursework:** Software Development · Operating Systems · DBMS · OOPS
 
 ---
 
@@ -82,13 +82,23 @@ const sowndarya: Developer = {
 
 ## 💻 Competitive Programming Stats
 
-| Platform | Max Rating | Problems Solved | Rank / Level |
-|---|---|---|---|
-| 🟡 LeetCode | 1455 | 200+ | Top 98.75% globally |
-| 🟤 CodeChef | 1318 | 700+ | ⭐⭐ 2 Star |
+| Metric | Count |
+|---|---|
+| 🧩 Total Questions Solved | **1073** |
+| 📅 Active Days | **299** |
+| 🏆 Contests Attended | **86** |
+
+| Platform | Rating | Contests / Problems |
+|---|---|---|
+| 🟡 LeetCode | Max **1455** | 21 contests · 200+ solved · Top 98.75% globally |
+| 🟤 CodeChef | Max **1318** (DSA) | 52 contests · ⭐⭐ 2 Star · 700+ solved |
+| 🔵 CodeForces | — | 4 contests |
+| 🟠 CodeChef DSA Challenge | Rated **3056** | 9 contests |
+
+**Question Distribution (via Codolio):** Fundamentals — 22 (GFG Basic 11, HackerRank 11) · DSA — 319 (Easy 186 · Medium 126 · Hard 7)
 
 **CP Languages:** C++ · Java · Python
-**Aggregated Stats:** [Codolio Profile](https://codolio.com/profile/Kit28.bcs165)
+**Full Aggregated Dashboard:** [Codolio Profile](https://codolio.com/profile/Kit28.bcs165)
 
 ### 🟡 LeetCode Live Stats
 <p align="center">
@@ -98,6 +108,7 @@ const sowndarya: Developer = {
 <p align="center">
   <a href="https://leetcode.com/u/Kitcs165/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://www.codechef.com/users/kit28csa165"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://codolio.com/profile/Kit28.bcs165"><img src="https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge&logoColor=white"/></a>
 </p>
 
 ---
@@ -171,8 +182,18 @@ Responsive full-stack app with user authentication and CRUD operations for artwo
 </p>
 
 ### 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SOWNDARYA-R7/SOWNDARYA-R7/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/SOWNDARYA-R7/SOWNDARYA-R7/output/github-snake-dark.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/SOWNDARYA-R7/SOWNDARYA-R7/output/github-snake.svg"
+      alt="Snake animation"
+    />
+  </picture>
 </p>
 
 ### 🏅 GitHub Trophies
@@ -180,6 +201,13 @@ Responsive full-stack app with user authentication and CRUD operations for artwo
   <img src="https://github-profile-trophy.vercel.app/?username=SOWNDARYA-R7&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
+## 🏆 Coding Achievements
+
+<p align="center">
+  <img src="./assets/codechef-500.png" width="300"/>
+  <img src="./assets/codechef-100-days.png" width="300"/>
+  <img src="./assets/leetcode-50-days.png" width="300"/>
+</p>
 ---
 
 ## 🎯 What I'm Working On
