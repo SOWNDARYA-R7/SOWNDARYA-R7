@@ -13,7 +13,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=SOWNDARYA-R7&style=for-the-badge&color=2E9EF7" alt="Profile Views"/>
   <img src="https://img.shields.io/badge/Problems%20Solved-1073-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CGPA-8.5%2F10-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CGPA-8.56%2F10-blueviolet?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Year-3rd%20Year-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Open%20To-Internships-brightgreen?style=for-the-badge"/>
 </p>
