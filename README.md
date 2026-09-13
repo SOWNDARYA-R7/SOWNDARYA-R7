@@ -44,7 +44,7 @@ const sowndarya: Developer = {
 - 💼 Backend Developer Intern (MERN) @ **Clar Technologies** — built REST APIs & MongoDB schemas
 - 📊 Data Analytics Intern @ **Appin Technology** — Power BI dashboards & DAX
 - 🧠 Built an **xLSTM-based SMS Spam Detector** — 95.94% test accuracy
-- 🧩 **1073 problems solved** · 299 active days · 86 contests attended (via Codolio)
+- 🧩 **1080 problems solved** · 301 active days · 86 contests attended (via Codolio)
 - 🔥 100+ day coding streaks — Diamond & Golden Badge holder
 - 🗣️ Languages: Tamil · English
 - 📫 Reach me at **kit28.24cs165@gmail.com** | 📞 7550332156
