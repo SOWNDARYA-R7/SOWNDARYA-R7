@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Problems%20Solved-1080-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problems%20Solved-1133-success?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CGPA-8.56%2F10-blueviolet?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Year-3rd%20Year-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Open%20To-Internships-brightgreen?style=for-the-badge"/>
