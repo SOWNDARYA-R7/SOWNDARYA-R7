@@ -141,7 +141,7 @@ const sowndarya = {
 
 <p align="center">
    <img src="./assets/leetcode-50-days.png" width="250" alt="LeetCode 100 Days Badge"/>
-  <img src="./assets/leetcode-100-days.png" width="250" alt="LeetCode 100 Days Badge"/>
+  <img src="./assets/leetcode-100-day.png" width="250" alt="LeetCode 100 Days Badge"/>
 </p>
 
 ---
