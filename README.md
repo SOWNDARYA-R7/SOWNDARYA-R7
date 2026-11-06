@@ -150,14 +150,14 @@ const sowndarya = {
 
 <p align="center">
   <img src="https://img.shields.io/badge/Questions%20Solved-1159-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Active%20Days-342-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Active%20Days-350-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Contests%20Attended-106-orange?style=for-the-badge"/>
 </p>
 
 | Platform | Rating | Contests |
 |---|---:|---:|
 | 🟡 LeetCode | 1,456 reported | 30 |
-| 🟤 CodeChef | 1,106 max | 57 |
+| 🟤 CodeChef | 1,106 max | 59 |
 | 🔵 Codeforces | 821 max | 4 |
 | 🟠 CodeChef DSA Challenge | 1,456 reported | 15 |
 
